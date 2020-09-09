@@ -1,0 +1,11 @@
+This doc provides description of the tests furnished in this repository.
+
+single_input1.csv : one horizontal trajectory heading toward ascending abscissa
+single_input2.csv : one horizontal trajectory heading toward descending abscissa
+different_lenght.csv : two horizontal trajectory heading toward ascending abscissa, one having triple the length of the other
+opposite_direction1.csv : two horizontal trajectories overlapping, but with opposite directions
+opposite_direction2.csv : two horizontal trajectories of same length, sharing the same starting point, but with opposite directions
+opposite_direction3.csv : two horizontal trajectories of same lenght, sharing same ending point, with opposite directions
+parallel.csv : two horizontal trajectories of same length, starting from a different point, same direction
+common_start_and_end.csv : two trajectories sharing the same starting and ending points, but with different curves
+looping.csv : one looping trajectory ending at the same point as its start, and one straigth trajectory
